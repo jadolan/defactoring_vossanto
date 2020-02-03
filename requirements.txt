@@ -1,4 +1,4 @@
-notebook=4.4.0
+notebook=6.0.3
 jupyter-contrib-nbextensions==0.5.1
 nltk=3.4.5
 
