@@ -1,0 +1,5 @@
+notebook=4.4.0
+jupyter-contrib-nbextensions==0.5.1
+nltk=3.4.5
+
+# was hier nich fehlt ist nltk.download("punkt")
